@@ -1,0 +1,370 @@
+Brand,Product,Display,RAM,DDR/SDR,HardDisk,Processor,OS,Pricing,Customer,Rating
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,1929,3.8
+ACER,Acer Predator Helios 300 Core i7 9th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics) P...,15.6,16 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i7  (9th Gen),64 bit Windows 10,114990,210,4.6
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,681,4
+APPLE,Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466,13.3,8 GB DDR3,DDR,128 GB SSD,Intel Core i5  (5th Gen),64 bit Mac OS,62990,16709,4.7
+LENOVO,Lenovo Ideapad 330 Celeron Dual Core - (4 GB/1 TB HDD/Windows 10 Home) 330-15IKB Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Celeron Dual Core,64 bit Windows 10,19990,50,4.1
+HP,HP 15s Core i3 8th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15s-du0093TU Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i3  (8th Gen),64 bit Windows 10,36990,107,4.4
+LENOVO,Lenovo Ideapad 130 APU Dual Core A6 - (4 GB/1 TB HDD/Windows 10 Home) 130-15AST Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,AMD APU Dual Core A6,64 bit Windows 10,20990,472,4
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,98,4.4
+DELL,Dell 14 3000 Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) inspiron3481 Laptop,14,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,27990,7,4.3
+HP,HP 15q Core i3 7th Gen - (8 GB/1 TB HDD/DOS) 15q-ds0017TU Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,30990,3746,4.3
+HP,HP 15q Core i5 7th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15q-ds0029TU Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (7th Gen),64 bit Windows 10,40990,1234,4.1
+HP,HP 15q APU Dual Core A9 - (4 GB/1 TB HDD/Windows 10 Home) 15q-dy0007AU Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,AMD APU Dual Core A9,64 bit Windows 10,22990,1685,4
+ACER,Acer Aspire 3 Pentium Gold - (4 GB/500 GB HDD/Windows 10 Home) A315-53-P4MY Laptop,15.6,4 GB DDR4,DDR,500 GB HDD,Intel Pentium Gold,64 bit Windows 10,19490,2377,4.1
+ASUS,Asus VivoBook 14 Core i5 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) X412FA-EK268T Thin and Light Lapt...,14,8 GB DDR4,DDR,512 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,48990,540,4.4
+LENOVO,Lenovo Ideapad 130 APU Quad Core A6 7th Gen - (4 GB/1 TB HDD/Windows 10 Home/512 MB Graphics) 81H5003V...,15.6,4 GB DDR4,DDR,1 TB HDD,AMD APU Quad Core A6  (7th Gen),64 bit Windows 10,19280,35,4.1
+LENOVO,Lenovo Ideapad 130 Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 130-15IKB Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,25490,1148,4
+HP,HP 14q Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 14q-cs0009TU Thin and Light Laptop,14,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,26490,8532,4.2
+DELL,Dell Inspiron 15 3000 Series Core i5 8th Gen - (8 GB/2 TB HDD/Windows 10 Home/2 GB Graphics) INS 3576 ...,15.6,8 GB DDR4,DDR,2 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,49990,111,4.4
+LENOVO,Lenovo Ideapad L340 Core i7 9th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) L340-15...,15.6,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i7  (9th Gen),64 bit Windows 10,72990,51,4.7
+HP,HP 15q Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) 15q-ds0006TU Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,29990,4488,4.1
+LENOVO,Lenovo Ideapad 330 Core i3 7th Gen - (8 GB/1 TB HDD/Windows 10 Home) 330-15IKB Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,31990,100,4.2
+ACER,Acer Aspire 3 Core i3 8th Gen - (4 GB/1 TB HDD/Windows 10 Home) A315-53-317G Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (8th Gen),64 bit Windows 10,27990,688,4.1
+LENOVO,Lenovo Ideapad 130 APU Dual Core A6 - (4 GB/1 TB HDD/DOS) 130-15AST Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,AMD APU Dual Core A6,DOS,17990,7,3.4
+HP,HP 15q Core i5 8th Gen - (8 GB/1 TB HDD/DOS) 15q-ds0009TU Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),DOS,38990,2391,4.2
+ASUS,Asus VivoBook 14 Core i3 7th Gen - (4 GB/256 GB SSD/Windows 10 Home) X412UA-EK342T Thin and Light Lapt...,14,4 GB DDR4,DDR,256 GB SSD,Intel Core i3  (7th Gen),64 bit Windows 10,33990,670,4.4
+ASUS,Asus VivoBook E12 Celeron Dual Core - (2 GB/32 GB EMMC Storage/Windows 10 Home) E203MA-FD014T Thin and...,11.6,2 GB DDR4,DDR,,Intel Celeron Dual Core,64 bit Windows 10,15990,1774,4.1
+DELL,Dell 14 3000 Core i3 7th Gen - (4 GB/1 TB HDD/Linux) inspiron 3481 Laptop,14,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),Linux/Ubuntu,26990,848,4.1
+HP,HP Pavilion x360 Core i3 8th Gen - (4 GB/256 GB SSD/Windows 10 Home) 14-dh0107TU 2 in 1 Laptop,14,4 GB DDR4,DDR,256 GB SSD,Intel Core i3  (8th Gen),64 bit Windows 10,42990,327,4.5
+DELL,Dell Inspiron 15 3000 Series Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) 3567 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,29850,426,3.9
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,1929,3.8
+LENOVO,Lenovo Ideapad L340 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home) L340-15IWLU Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,41990,34,4.4
+HP,HP 14q Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Home) 14q-cs1002tu Thin and Light Laptop,14,8 GB DDR4,DDR,256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,45990,2889,4
+ASUS,Asus Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) X540UA-GQ683T Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,25990,681,4
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,389,3.9
+HP,HP HP Notebook Celeron Dual Core 7th Gen - (4 GB/1 TB HDD/DOS) 250 G6 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Celeron Dual Core  (7th Gen),32 bit DOS,20590,39,4.2
+HP,HP 14s Core i5 8th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) 14s-cr1005TU Thin and Light Laptop,14,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,50990,272,4.3
+ASUS,Asus Vivobook Ryzen 5 Quad Core - (8 GB/1 TB HDD/Windows 10 Home) X505ZA-EJ274TX505Z Thin and Light La...,15.6,8 GB DDR4,DDR,1 TB HDD,AMD Ryzen 5 Quad Core,64 bit Windows 10,35849,1865,4.1
+LENOVO,Lenovo Ideapad 330s Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) 330S-14IKB Laptop,14,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,29990,98,4.4
+HP,HP 15 Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) 15-da0352tu Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,29690,670,4.4
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,822,4.2
+MSI,MSI Prestige Core i7 8th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics) PS63 Modern 8RDS-098IN ...,15.6,8 GB DDR4,DDR,512 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,81990,1148,4
+ASUS,Asus VivoBook 14 Core i3 7th Gen - (4 GB/256 GB SSD/Windows 10 Home) X412UA-EK341T Thin and Light Lapt...,14,4 GB DDR4,DDR,256 GB SSD,Intel Core i3  (7th Gen),64 bit Windows 10,33990,82,4.4
+DELL,Dell Inspiron 15 5000 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home) INSP 5570 Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,48990,1206,3.9
+LENOVO,Lenovo Ideapad 130 Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 130-15IKB Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,25490,322,3.9
+LENOVO,Lenovo Legion Y530 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) Y530-15ICH Gaming L...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,57990,17,4.5
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,1929,3.8
+ASUS,Asus ASUS E203 Celeron Dual Core - (4 GB/500 GB HDD/Windows 10) E203MAH-FD005T Laptop,11.6,4 GB DDR4,DDR,500 GB HDD,Intel Celeron Dual Core,64 bit Windows 10,22990,101,4.2
+ASUS,Asus VivoBook 15 Core i3 8th Gen - (4 GB/256 GB SSD/Windows 10 Home) X512FA-EJ548T Laptop,15.6,4 GB DDR4,DDR,256 GB SSD,Intel Core i3  (8th Gen),64 bit Windows 10,35980,17,4.5
+ASUS,Asus Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home) X540UA-DM995T Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,39990,664,4.1
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,681,4
+ASUS,Asus Vivobook 15 Ryzen 5 Quad Core - (8 GB/512 GB SSD/Windows 10 Home) X512DA-EJ503T Thin and Light La...,15.6,8 GB DDR4,DDR,512 GB SSD,Intel Ryzen 5 Quad Core,64 bit Windows 10,43990,3,3.3
+ACER,Acer Aspire 3 Celeron Dual Core - (2 GB/500 GB HDD/Windows 10 Home) A315-33 Laptop,15.6,2 GB DDR3,DDR,500 GB HDD,Intel Celeron Dual Core,64 bit Windows 10,16950,3110,3.7
+HP,HP 14q Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) 14q-cs0014TU Laptop,14,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,30990,176,4.1
+LENOVO,Lenovo Ideapad S145 Pentium Dual Core - (4 GB/1 TB HDD/Windows 10 Home) S145-15IWL Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Pentium Dual Core,64 bit Windows 10,23990,8,4.6
+HP,HP 15q APU Dual Core A6 - (4 GB/1 TB HDD/Windows 10 Home) 15q-dy0006AU Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,AMD APU Dual Core A6,64 bit Windows 10,22990,681,4
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,98,4.4
+HP,HP 14q Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home) 14q-cs0017tu Laptop,14,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,43990,22,4.1
+ASUS,Asus ZenBook 14 Core i7 8th Gen - (16 GB/1 TB SSD/Windows 10 Home/2 GB Graphics) UX434FL-A7801T Thin a...,14,16 GB DDR4,DDR,1 TB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,103980,228,4.5
+ASUS,Asus ROG Strix G Core i7 9th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics) G531GT-AL...,15.6,16 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i7  (9th Gen),64 bit Windows 10,92990,1148,4
+LENOVO,Lenovo Ideapad 130 Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 130-15IKB Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,25490,685,4.2
+HP,HP 15q Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) 15q-ds0004TX Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,50990,119,4.5
+HP,HP G7 Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 250 G7 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,26890,670,4.4
+ACER,Acer Nitro 5 Ryzen 5 Quad Core - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) AN515-43 Gaming Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,AMD Ryzen 5 Quad Core,64 bit Windows 10,50990,1956,4.1
+ASUS,Asus VivoBook 14 Core i3 7th Gen - (4 GB/256 GB SSD/Windows 10 Home) X412UA-EK340T Thin and Light Lapt...,14,4 GB DDR4,DDR,256 GB SSD,Intel Core i3  (7th Gen),64 bit Windows 10,33990,210,4.6
+HP,HP 15q Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) 15q-ds0007TU Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,31990,389,3.9
+ACER,Acer Predator Helios 300 Core i7 9th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics) P...,15.6,16 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i7  (9th Gen),64 bit Windows 10,114990,4,4
+LENOVO,Lenovo Core i5 8th Gen - (8 GB/1 TB SSD/Windows 10 Home) C340-14IWL 2 in 1 Laptop,14,8 GB DDR4,DDR,1 TB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,69998,1929,3.8
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,3,3
+HP,HP Pavilion 13 Core i5 8th Gen - (8 GB/128 GB SSD/Windows 10 Home) 13-an0045tu Thin and Light Laptop,13.3,8 GB DDR4,DDR,128 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,54990,681,4
+HP,HP 15Q Core i3 7th Gen - (8 GB/256 GB SSD/Windows 10 Home) 15q-ds0045TU Laptop,15.6,8 GB DDR4,DDR,256 GB SSD,Intel Core i3  (7th Gen),64 bit Windows 10,33990,12,4
+HP,HP G7 APU Dual Core A6 7th Gen - (4 GB/1 TB HDD/DOS) 245 G7 Laptop,14,4 GB DDR4,DDR,1 TB HDD,AMD APU Dual Core A6  (7th Gen),DOS,21200,5,3.8
+ASUS,Asus VivoBook 15 Core i3 8th Gen - (4 GB/1 TB HDD/Windows 10 Home) X540UA-GQ2113T Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (8th Gen),64 bit Windows 10,31990,98,4.4
+ASUS,Asus ROG Strix Core i5 9th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics) G531GD-BQ026T Gaming ...,15.6,8 GB DDR4,DDR,512 GB SSD,Intel Core i5  (9th Gen),64 bit Windows 10,64990,305,4
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,52,3.9
+ASUS,Asus ZenBook 13 Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Home) UX333FA-A4046T Thin and Light Lapt...,13.3,8 GB DDR3,DDR,256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,69990,79,4.1
+ASUS,Asus Vivobook 15 Core i5 8th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) X512FL-EJ503T Thin ...,15.6,8 GB DDR4,DDR,512 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,57490,272,4.3
+LENOVO,Lenovo Ideapad S145 Ryzen 3 Dual Core - (4 GB/1 TB HDD/Windows 10 Home) S145-15API Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,AMD Ryzen 3 Dual Core,64 bit Windows 10,26645,1148,4
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,23,4.2
+ASUS,Asus X Series Core i3 7th Gen - (4 GB/1 TB HDD/Endless) X540UA-GQ704 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Endless,25990,896,4.2
+LENOVO,Lenovo Ideapad S145 Pentium Gold - (4 GB/1 TB HDD/Windows 10 Home) S145-15IWL Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Pentium Gold,64 bit Windows 10,23090,210,4.6
+LENOVO,Lenovo Ideapad 330E Core i5 8th Gen - (8 GB/1 TB HDD/DOS/4 GB Graphics) 330-15IKB Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),DOS,45990,34,4.4
+ASUS,Asus VivoBook Ryzen 5 Quad Core - (4 GB/1 TB HDD/Windows 10 Home) X505ZA-EJ505TX505Z Thin and Light La...,15.6,4 GB DDR4,DDR,1 TB HDD,AMD Ryzen 5 Quad Core,64 bit Windows 10,31790,33,4.1
+LENOVO,Lenovo IdeaPad Pentium Quad Core - (4 GB/1 TB HDD/DOS) 110-15IBR Laptop,15.6,4 GB DDR3,DDR,1 TB HDD,Intel Pentium Quad Core,DOS,23987,350,4
+DELL,Dell Inspiron 14 3000 Core i3 7th Gen - (4 GB/1 TB HDD/Linux) inspiron 3467 Laptop,14,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),Linux/Ubuntu,27990,1694,4.1
+HP,HP Pavilion Core i7 9th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics) 15-dk0049TX Gam...,15.6,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i7  (9th Gen),64 bit Windows 10,89990,4,4.3
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,1929,3.8
+LENOVO,Lenovo Thinpad E480 Core i3 7th Gen - (4 GB/500 GB HDD/Windows 10 Pro/512 MB Graphics) ThinkPad E480 L...,14,4 GB DDR4,DDR,500 GB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,49998,22,4.5
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/2 GB Graphics) 15-cs2082tx ...,15.6,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,63490,681,4
+DELL,Dell XPS 13 Core i7 8th Gen - (16 GB/512 GB SSD/Windows 10 Home) 9380 Thin and Light Laptop,13.3,16 GB DDR4,DDR,512 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,145154,34,4.1
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,305,4
+HP,HP G6 APU Dual Core A9 - (4 GB/1 TB HDD/DOS) 245-G6 Laptop,14,4 GB DDR4,DDR,1 TB HDD,AMD APU Dual Core A9,DOS,20883,221,4.8
+ASUS,Asus X Series Core i3 7th Gen - (4 GB/1 TB HDD/Endless) X540UA-GQ703 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Endless,25990,247,4.4
+APPLE,Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MVFM2HN/A,13.3,8 GB DDR3,DDR,128 GB SSD,Intel Core i5  (8th Gen),Mac OS,94990,1310,4.1
+HP,HP Envy 13 Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Home) 13-ah0043tu Thin and Light Laptop,13.3,8 GB DDR3,DDR,256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,69990,98,4.4
+ASUS,Asus Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) R540UB-DM723T Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,42990,591,4.3
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,102,4.7
+LENOVO,Lenovo Yoga 520 Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) YG 520 -14IKB 2 in 1 Laptop,14,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,39990,1148,4
+HP,HP 15 Core i3 7th Gen - (4 GB/1 TB HDD/128 GB SSD/Windows 10 Home) 15Q-DS0027TU Laptop,15.6,4 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i3  (7th Gen),64 bit Windows 10,34990,414,4
+ASUS,Asus ROG Strix G Core i7 9th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics) G531GT-AL017T Gamin...,15.6,8 GB DDR4,DDR,512 GB SSD,Intel Core i7  (9th Gen),64 bit Windows 10,84990,16,3.9
+LENOVO,Lenovo Ideapad 130 Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 130-15IKB Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,25490,5,4.4
+DELL,Dell Inspiron 15 3000 Core i3 6th Gen - (4 GB/1 TB HDD/Windows 10 Home) 3567 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (6th Gen),64 bit Windows 10,33990,210,4.6
+ASUS,Asus Vivobook Core i5 8th Gen - (4 GB + 16 GB Optane/1 TB HDD/Windows 10 Home/2 GB Graphics) X510UF-EJ...,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,45990,19,4.4
+ASUS,Asus VivoBook S Series Core i5 8th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) S430FA-EB026T Lapt...,14,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,64990,701,4.5
+HP,HP Pavilion x360 Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Home) 14-cd0081tu 2 in 1 Laptop,14,8 GB DDR4,DDR,256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,66489,63,4.3
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,1929,3.8
+LENOVO,Lenovo Core i7 6th Gen - (8 GB/1 TB HDD/DOS/2 GB Graphics) Ideapad 310 Laptop,15.6,8 GB,,1 TB HDD,Intel Core i7  (6th Gen),DOS,48990,163,4
+DELL,Dell G3 Series Core i5 8th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) 3579 Gaming ...,15.6,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,69499,94,4.3
+DELL,Dell Vostro 3000 Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) 3581 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,34700,40,4.4
+MSI,MSI Core i5 9th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics) GF63 Thin 9SC-240IN Gaming Lapto...,15.6,8 GB DDR4,DDR,512 GB SSD,Intel Core i5  (9th Gen),64 bit Windows 10,67990,681,4
+HP,HP G4 APU Dual Core A9 7th Gen - (4 GB/500 GB HDD/Windows 10 Home) 455 G4 Laptop,15.6,4 GB DDR4,DDR,500 GB HDD,AMD APU Dual Core A9  (7th Gen),64 bit Windows 10,35000,91,4.7
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,32,4.4
+APPLE,Apple MacBook Pro Core i5 7th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MPXQ2HN/A,13.3,8 GB DDR3,DDR,128 GB SSD,Intel Core i5  (7th Gen),64 bit Mac OS,112990,25,4.7
+ACER,Acer NITRO 5 Core i5 9th Gen - (8 GB/1 TB HDD/Windows 10 Home/3 GB Graphics) AN515-54-563Y Gaming Lapt...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (9th Gen),64 bit Windows 10,55990,98,4.4
+APPLE,Apple MacBook Pro Core i5 8th Gen - (8 GB/512 GB SSD/Mac OS Mojave) MR9V2HN/A,13.3,8 GB DDR3,DDR,512 GB SSD,Intel Core i5  (8th Gen),Mac OS,149990,3,4.7
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,3,5
+DELL,Dell Inspiron 15 5000 Series Core i5 8th Gen - (4 GB + 16 GB Optane/2 TB HDD/Windows 10 Home/2 GB Grap...,15.6,4 GB DDR4,DDR,2 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,62990,25,4.1
+LAVA,Lava Helium 12 Atom 7th Gen - (2 GB/32 GB HDD/32 GB EMMC Storage/Windows 10 Home) Helium 12 Laptop,12.5,2 GB DDR3,DDR,32 GB HDD,Intel Atom  (7th Gen),64 bit Windows 10,12990,516,4.1
+LENOVO,Lenovo Ideapad 330 Core i3 7th Gen - (4 GB/1 TB HDD/128 GB SSD/Windows 10 Home/2 GB Graphics) 330-15IK...,15.6,4 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i3  (7th Gen),64 bit Windows 10,36444,1148,4
+LENOVO,Lenovo Ideapad 330 Core i3 6th Gen - (4 GB/1 TB HDD/DOS) 330-15IKB Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (6th Gen),DOS,25490,933,4.5
+APPLE,Apple MacBook Pro Core i5 8th Gen - (8 GB/256 GB SSD/Mac OS Mojave) MUHP2HN/A,13.3,8 GB DDR3,DDR,256 GB SSD,Intel Core i5  (8th Gen),Mac OS,136204,183,4.1
+LENOVO,Lenovo Ideapad 130 Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 130-15IKB Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,25490,3,4
+ASUS,Asus ROG Strix Core i7 8th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics) GL503GE-EN26...,15.6,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,79990,210,4.6
+HP,HP Pavilion x360 Core i3 8th Gen - (4 GB/1 TB HDD/256 GB SSD/Windows 10 Home) 14-dh0047TU 2 in 1 Lapto...,14,4 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i3  (8th Gen),64 bit Windows 10,59135,10,4.5
+LENOVO,Lenovo Core i5 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) C340-14IWL 2 in 1 Laptop,14,8 GB DDR4,DDR,512 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,85500,141,4.6
+ASUS,Asus ROG Strix G Core i7 9th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics) G531GT-AL0...,15.6,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i7  (9th Gen),64 bit Windows 10,86990,8,3.5
+ASUS,Asus ZenBook Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Home) UX430UA-GV307T Thin and Light Laptop,14,8 GB DDR4,DDR,256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,52990,3,5
+LENOVO,Lenovo Ideapad 330 Core i5 8th Gen - (4 GB + 16 GB Optane/1 TB HDD/Windows 10 Home/4 GB Graphics) 330-...,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,49990,1929,3.8
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,5,3
+ACER,Acer Switch 5 Core i5 7th Gen - (8 GB/256 GB SSD/Windows 10 Home) SW512-52-533E 2 in 1 Laptop,12,8 GB DDR3,DDR,256 GB SSD,Intel Core i5  (7th Gen),64 bit Windows 10,75380,6,3.8
+LENOVO,Lenovo Ideapad 120s Pentium Quad Core - (4 GB/128 GB SSD/Windows 10 Home) 120S-14IAP Thin and Light La...,14,4 GB DDR4,DDR,128 GB SSD,Intel Pentium Quad Core,64 bit Windows 10,28990,681,4
+ASUS,Asus Vivobook 15 Ryzen 5 Quad Core - (8 GB/512 GB SSD/Windows 10 Home) X512DA-EJ502T Thin and Light La...,15.6,8 GB DDR4,DDR,512 GB SSD,AMD Ryzen 5 Quad Core,64 bit Windows 10,42500,8,4.6
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,32,4.3
+LENOVO,Lenovo Ideapad 130 APU Dual Core A9 - (4 GB/1 TB HDD/Windows 10 Home) 130-15AST Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,AMD APU Dual Core A9,64 bit Windows 10,31290,98,4.4
+DELL,Dell Inspiron 15 7000 Series Core i7 8th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/2 GB Graphics...,15.6,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,89990,41,4.6
+HP,HP 14q Core i3 7th Gen - (4 GB/256 GB SSD/Windows 10 Home) 14q-cs0019TU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,Intel Core i3  (7th Gen),64 bit Windows 10,32990,138,4.7
+HP,HP 14 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home) 14-bf119TU Laptop,14,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,56990,1148,4
+LENOVO,Lenovo IdeaPad 330 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10) 81DE008PIN Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,43298,1057,4
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,190,4.2
+APPLE,Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MVFH2HN/A,13.3,8 GB DDR3,DDR,128 GB SSD,Intel Core i5  (8th Gen),Mac OS,94990,221,4.8
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,1929,3.8
+APPLE,Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MVFK2HN/A,13.3,8 GB DDR3,DDR,128 GB SSD,Intel Core i5  (8th Gen),Mac OS,94990,221,4.8
+NEXSTGO,Nexstgo Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Pro) NX101 Thin and Light Laptop,14,8 GB DDR4,DDR,256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,79990,58,4.4
+ACER,Acer Swift 3 Core i5 8th Gen - (4 GB/256 GB SSD/Windows 10 Home) SF314-52 Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,43999,681,4
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,10,3.1
+HP,HP 14q Core i5 8th Gen - (4 GB/1 TB HDD/Windows 10 Home) 14q-cs0007TU Laptop,14,4 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,39990,600,4.1
+DELL,Dell Vostro 15 Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) 3568 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,28990,3,5
+LENOVO,Lenovo Yoga 520 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) 520-14IKB 2 in 1 Lapto...,14,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,59990,98,4.4
+HP,HP Pavilion Core i7 9th Gen - (12 GB/1 TB HDD/512 GB SSD/Windows 10 Home/6 GB Graphics) 15-dk0052TX Ga...,15.6,12 GB DDR4,DDR,1 TB HDD|512 GB SSD,Intel Core i7  (9th Gen),64 bit Windows 10,116990,95,4.5
+ASUS,Asus VivoBook 14 Core i3 8th Gen - (4 GB/256 GB SSD/Windows 10 Home) X412FA-EK436T Thin and Light Lapt...,14,4 GB DDR4,DDR,256 GB SSD,Intel Core i3  (8th Gen),64 bit Windows 10,38990,1148,4
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,190,4.2
+ASUS,Asus VivoBook 14 APU Quad Core A12 - (8 GB/512 GB SSD/Windows 10 Home) X411QA-EK202T Thin and Light La...,14,8 GB DDR4,DDR,512 GB SSD,AMD APU Quad Core A12,64 bit Windows 10,31990,95,4.5
+AVITA,Avita Liber Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Home) NS14A2IN214P Thin and Light Laptop,14,8 GB DDR4,DDR,256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,64990,210,4.6
+LENOVO,Lenovo Ideapad 330 Core i5 8th Gen - (8 GB/1 TB HDD/DOS/4 GB Graphics) 330-15IKB Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),DOS,65690,308,4.5
+MSI,MSI GV Series Core i7 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) GV62 7RE-2401...,15.6,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,79990,293,4.6
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,1929,3.8
+HP,HP Pavilion Core i5 8th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/2 GB Graphics) 14-ce2064TX Lap...,14,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,67990,95,4.5
+LENOVO,Lenovo Legion Y520 Core i7 7th Gen - (16 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) Y520-15...,15.6,16 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,99159,33,4.2
+AVITA,Avita Liber Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Home) NS14A2IN210P Thin and Light Laptop,14,8 GB DDR4,DDR,256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,64990,681,4
+ACER,Acer Aspire Core i3 6th Gen - (4 GB/128 GB SSD/Windows 10 Home) X349-M Laptop,14,4 GB DDR4,DDR,128 GB SSD,Intel Core i3  (6th Gen),64 bit Windows 10,49449,111,4
+ASUS,Asus VivoBook 14 Ryzen 5 Quad Core - (8 GB/1 TB HDD/Windows 10 Home) X412DA-EK140T Thin and Light Lapt...,14,8 GB DDR4,DDR,1 TB HDD,AMD Ryzen 5 Quad Core,64 bit Windows 10,39990,17,3.9
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,98,4.4
+DELL,Dell Vostro 3000 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home) 3480 Laptop,14,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,45174,23,3.4
+DELL,Dell Inspiron 15 3000 Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) 3567 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,30990,477,4.7
+ACER,Acer Aspire E15 APU Quad Core A10 - (4 GB/1 TB HDD/Windows 10 Home) E5-553 / E5-553G Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,AMD APU Quad Core A10,64 bit Windows 10,27990,21,3.8
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,244,4.4
+HP,HP 14s Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) cf0055TU Thin and Light Laptop,14,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,34485,1148,4
+ACER,Acer Swift 3 Core i5 8th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/2 GB Graphics) SF315-51G Lapt...,15.6,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,59990,3,5
+LENOVO,Lenovo Ideapad 130 Core i5 8th Gen - (8 GB/1 TB HDD/DOS/2 GB Graphics) 130-15IKB Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),DOS,39990,828,3.8
+ASUS,Asus Core i3 7th Gen - (4 GB/256 GB SSD/Windows 10 Home) X509UA-EJ361T Laptop,15.6,4 GB DDR4,DDR,256 GB SSD,Intel Core i3  (7th Gen),64 bit Windows 10,30980,210,4.6
+DELL,Dell Inspiron 13 5000 Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Home) 5370 Thin and Light Laptop,13,8 GB DDR4,DDR,256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,56990,95,4.5
+LENOVO,Lenovo Ideapad 130 Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 130-15IKB Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,25490,3,4.7
+LENOVO,Lenovo Ideapad 330 Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 330-14IKB Laptop,14,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,26490,6,3.8
+NEXSTGO,Nexstgo Core i5 8th Gen - (16 GB/512 GB SSD/Windows 10 Pro) NX201 Laptop,15.6,16 GB DDR4,DDR,512 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,92990,451,3.7
+LENOVO,Lenovo APU Dual Core A6 7th Gen - (4 GB/1 TB HDD/DOS) IP 320E Notebook,15.6,4 GB DDR4,DDR,1 TB HDD,AMD APU Dual Core A6  (7th Gen),DOS,22000,1929,3.8
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,155,4.7
+ASUS,Asus ROG Strix G Core i5 9th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics) G531GT-BQ002T Gamin...,15.6,8 GB DDR4,DDR,512 GB SSD,Intel Core i5  (9th Gen),64 bit Windows 10,69990,33,4.3
+ACER,Acer Swift 3 Core i5 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) SF313-51 Thin and Light Laptop,13.3,8 GB DDR4,DDR,512 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,54990,681,4
+LENOVO,Lenovo Yoga 730 Core i5 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) 730-13IKB 2 in 1 Laptop,13.3,8 GB DDR4,DDR,512 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,94990,22,4.5
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,2,3
+LENOVO,Lenovo Ideapad 330 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) 330-15ICH Gaming La...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,58244,3,2
+ACER,Acer Swift 3 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home) SF315-51-50b5 Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,50999,98,4.4
+ASUS,Asus Core i3 7th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) X510UR-BQ226T Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,45000,402,4.6
+HP,HP 14 Core i5 8th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/2 GB Graphics) 14-ce1001TX Laptop,14,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,66990,72,4.3
+LENOVO,Lenovo Core i7 7th Gen - (8 GB/256 GB SSD/Windows 10 Home) IP 720S Thin and Light Laptop,13.3,8 GB DDR4,DDR,256 GB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,72990,1148,4
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,496,4.1
+HP,HP Pavilion Core i7 8th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) 14-ce2065TX Laptop,14,8 GB DDR4,DDR,512 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,81445,2889,4
+ASUS,Asus ROG Strix Core i5 8th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics) GL503GE-EN26...,15.6,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,85990,2377,4.1
+AVITA,Avita Liber Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Home) NS14A2IN196P Thin and Light Laptop,14,8 GB DDR4,DDR,256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,64990,95,4.5
+HP,HP Pavilion x360 Pentium Quad Core - (4 GB/1 TB HDD/Windows 10 Home) 11-ad105tu 2 in 1 Laptop,11.6,4 GB DDR4,DDR,1 TB HDD,Intel Pentium Quad Core,64 bit Windows 10,39790,60,4
+LENOVO,Lenovo B50-70 Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8/ 2GB Graph) (59-427747),15.6,8 GB DDR3,DDR,1 TB HDD,Intel Core i5  (4th Gen),64 bit Windows 8,52490,77,3.8
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,1929,3.8
+AVITA,Avita Liber Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Home) NS14A2IN200P Thin and Light Laptop,14,8 GB DDR4,DDR,256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,64990,95,4.5
+MSI,MSI Core i7 9th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) GF75 Thin 9SC-095IN Gam...,17.3,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i7  (9th Gen),64 bit Windows 10,107990,1,5
+ASUS,Asus VivoBook S15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) S510UN-BQ217T Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,54950,112,4.2
+ASUS,Asus Vivobook 15 Core i7 8th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) X512FL-EJ701T Thin ...,15.6,8 GB DDR4,DDR,512 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,66290,6,3.7
+LENOVO,Lenovo Core i7 6th Gen - (8 GB/512 GB SSD/Windows 10 Home) Yoga 900 2 in 1 Laptop,13.3,8 GB DDR3,DDR,512 GB SSD,Intel Core i7  (6th Gen),64 bit Windows 10,128690,681,4
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,221,4.8
+APPLE,Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MRE82HN/A,13.3,8 GB DDR3,DDR,128 GB SSD,Intel Core i5  (8th Gen),Mac OS,106990,98,4.4
+HP,HP G7 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Pro) 240-G7 Laptop,14,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,59990,701,4.5
+AVITA,Avita Magus Celeron Dual Core - (4 GB/64 GB EMMC Storage/Windows 10 Home) NS12T5IN004P 2 in 1 Laptop,12.2,4 GB DDR3,DDR,,Intel Celeron Dual Core,64 bit Windows 10,20490,3,4.3
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,3,4.7
+ASUS,Asus VivoBook S Series Core i5 8th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) S430FA-EB006T Lapt...,14,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,64990,1148,4
+AVITA,Avita Liber Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Home) NS13A2IN205P Thin and Light Laptop,13.3,8 GB DDR4,DDR,256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,64990,34,4.4
+ASUS,Asus Core i5 8th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) X509FJ-EJ502T Laptop,15.6,8 GB DDR4,DDR,512 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,51500,4,4.3
+ASUS,Asus ZenBook 13 Core i5 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) UX333FA-A4184T Thin and Light Lapt...,13.3,8 GB DDR3,DDR,512 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,78991,2236,4.4
+HP,HP Pavilion Core i5 9th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics) 15-dk0045TX Gam...,15.6,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i5  (9th Gen),64 bit Windows 10,71900,210,4.6
+LENOVO,Lenovo Z50 Notebook (4th Gen Ci5/ 4GB/ 1TB/ Free DOS) (59-442264),15.6,4 GB DDR3,DDR,1 TB HDD,Intel Core i5  (4th Gen),DOS,42000,5,4.2
+AVITA,Avita Liber Core i5 7th Gen - (8 GB/256 GB SSD/Windows 10 Home) NS13A1IN006P Thin and Light Laptop,13.3,8 GB DDR3,DDR,256 GB SSD,Intel Core i5  (7th Gen),64 bit Windows 10,42990,107,4.4
+LENOVO,Lenovo Core i5 7th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) IP 520 Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (7th Gen),64 bit Windows 10,64715,57,4
+HP,HP 15 APU Dual Core A9 - (4 GB/1 TB HDD/Windows 10 Home) 15-bw519AU Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,AMD APU Dual Core A9,64 bit Windows 10,24966,2746,4.1
+APPLE,Apple MacBook Pro Core i5 8th Gen - (8 GB/512 GB SSD/Mac OS Mojave) MV972HN,13.3,8 GB DDR3,DDR,512 GB SSD,Intel Core i5  (8th Gen),Mac OS,169990,25,4.7
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,1929,3.8
+ACER,Acer Aspire 5 Core i5 8th Gen - (4 GB/1 TB HDD/Windows 10 Home) A515-51 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,38990,7,3.3
+MSI,MSI GS Core i7 8th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics) GS65 8RE-084IN Gaming Laptop,15.6,16 GB DDR4,DDR,512 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,149990,7,3.7
+HP,HP Envy 13 Core i5 8th Gen - (8 GB + 32 GB Optane/512 GB SSD/Windows 10 Home) 13-aq0049TU 2 in 1 Lapto...,13.3,8 GB DDR4,DDR,512 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,73990,681,4
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,9,4.9
+HP,HP G6 Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 250-G6 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,28889,5,4.6
+HP,HP Omen Core i7 9th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics) 15-dc1093TX Gaming ...,15.6,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i7  (9th Gen),64 bit Windows 10,92990,620,4.2
+ACER,Acer Predator 17 Core i7 7th Gen - (16 GB/2 TB HDD/256 GB SSD/Windows 10 Home/8 GB Graphics) G9-793 Ga...,17.3,16 GB DDR4,DDR,2 TB HDD|256 GB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,186555,98,4.4
+LENOVO,Lenovo Yoga 730 Core i7 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) 730-13IKB 2 in 1 Laptop,13.3,8 GB DDR4,DDR,512 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,109990,1148,4
+HP,HP 15q Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) 15q-bu039TU Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,35616,18,4.7
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,77,4.7
+LENOVO,Lenovo Ideapad 330 Core i5 8th Gen - (4 GB/1 TB HDD/Windows 10 Home/512 MB Graphics) Ideapad 330-151KB...,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,44838,29,4.3
+LENOVO,Lenovo Ideapad 330 Core i5 8th Gen - (4 GB + 16 GB Optane/1 TB HDD/Windows 10 Home/4 GB Graphics) Idea...,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,48990,1929,3.8
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,1,4
+ACER,Acer Spin 7 Core i7 7th Gen - (8 GB/256 GB SSD/Windows 10 Home) SP714-51 Laptop,14,8 GB DDR3,DDR,256 GB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,119990,16,4.2
+HP,HP G6 Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 240 G6 Laptop,14,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit DOS,27990,288,4.4
+DELL,Dell 5000 Core i5 7th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 5577 Gaming Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (7th Gen),64 bit Windows 10,64990,681,4
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,17,4.3
+MICROSOFT,Microsoft Surface Core i5 7th Gen - (8 GB/128 GB SSD/Windows 10 S) 1769 Thin and Light Laptop,13.5,8 GB DDR3,DDR,128 GB SSD,Intel Core i5  (7th Gen),64 bit Windows 10,81990,921,4.6
+HP,HP Pavilion Core i7 9th Gen - (12 GB/1 TB HDD/512 GB SSD/Windows 10 Home/4 GB Graphics) 15-dk0051TX Ga...,15.6,12 GB DDR4,DDR,1 TB HDD|512 GB SSD,Intel Core i7  (9th Gen),64 bit Windows 10,103989,3,5
+DELL,Dell Inspiron 13 7000 Series Core i5 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) insp 7380 Laptop,13.3,8 GB DDR4,DDR,512 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,72550,98,4.4
+DELL,Dell Inspiron 15 7000 Core i7 7th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 7567 Gaming Lapt...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i7  (7th Gen),64 bit Windows 10,86000,7,4.3
+ASUS,Asus Core i7 8th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/2 GB Graphics) S510UN-BQ069T Laptop,15.6,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,70970,63,4.3
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,1148,4
+DELL,Dell Inspiron 14 5000 Series Core i3 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) 5482 2 in...,14,8 GB DDR4,DDR,1 TB HDD,Intel Core i3  (8th Gen),64 bit Windows 10,64990,813,4.2
+HP,HP Core M 6th Gen - (4 GB/128 GB SSD/Windows 10 Pro) X2 2 in 1 Laptop,12,4 GB DDR3,DDR,128 GB SSD,Intel Core M  (6th Gen),64 bit Windows 10,89855,211,4.7
+ACER,Acer Nitro 5 Core i7 7th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) AN515-51 Gaming Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i7  (7th Gen),64 bit Windows 10,69999,3188,4.5
+LENOVO,Lenovo Ideapad 130 Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 130-15IKB Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,25490,74,4.4
+IBALL,iball Compbook Celeron Dual Core 7th Gen - (3 GB/32 GB EMMC Storage/Windows 10) Marvel6 V3.0 Laptop,14,3 GB DDR3,DDR,,Intel Celeron Dual Core  (7th Gen),64 bit Windows 10,15000,210,4.6
+ASUS,Asus VivoBook Core i5 8th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) S430UA-EB155T Thin and Ligh...,14,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,57990,477,4.7
+HP,HP Pavilion Core i5 9th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics) 15-dk0047TX Gam...,15.6,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i5  (9th Gen),64 bit Windows 10,78990,505,4.3
+ASUS,Asus ROG Strix Hero II Core i7 8th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics) GL5...,15.6,16 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,164990,3,4.7
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,1929,3.8
+APPLE,Apple MacBook Pro Core i7 8th Gen - (16 GB/256 GB SSD/Mac OS Mojave/4 GB Graphics) MV922HN,15.4,16 GB DDR3,DDR,256 GB SSD,Intel Core i7  (8th Gen),Mac OS,189990,236,4.3
+MSI,MSI Core i7 9th Gen - (16 GB/1 TB HDD/512 GB SSD/Windows 10 Home/8 GB Graphics) GE63 Raider RGB 9SF-80...,15.6,16 GB DDR4,DDR,1 TB HDD|512 GB SSD,Intel Core i7  (9th Gen),64 bit Windows 10,189990,17,4
+ACER,Acer Swift 3 Core i5 8th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/2 GB Graphics) SF315-52G Lapt...,15.6,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,56990,431,3.9
+LENOVO,Lenovo 330 Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10) Ideapad Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,35990,681,4
+DELL,Dell Inspiron 15 3000 Series Core i3 6th Gen - (4 GB/1 TB HDD/Windows 10 Home) 3567 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (6th Gen),64 bit Windows 10,31990,336,4.5
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,2,3
+LENOVO,Lenovo Ideapad L340 Core i5 9th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) IP-l340 Gaming Lap...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (9th Gen),64 bit Windows 10,63490,98,4.4
+ASUS,Asus VivoBook Core i5 8th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) S430UA-EB008T Thin and Ligh...,14,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,64990,3,3.7
+ASUS,Asus ROG Core i7 7th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics) GL502VM-FY230T Gam...,15.6,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,146490,13,4.6
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,797,4.2
+ASUS,Asus Vivobook Core i7 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) X510UN-EJ330T Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i7  (8th Gen),64 bit Windows 10,57790,4,5
+DELL,Dell G7 Series Core i7 8th Gen - (16 GB/1 TB HDD/128 GB SSD/Windows 10 Home/6 GB Graphics) 7588 Gaming...,15.6,16 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,129990,404,4.5
+ACER,Acer Aspire 5 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) A515-51G Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,45990,1148,4
+ACER,Acer Swift 3 Core i7 7th Gen - (8 GB/256 GB SSD/Windows 10 Home) SF314-51 Thin and Light Laptop,14,8 GB DDR4,DDR,256 GB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,60990,13,3
+ACER,Acer Nitro 5 Core i5 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/2 GB Graphics) AN515-51 Gamin...,15.6,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i5  (7th Gen),64 bit Windows 10,54990,196,4.5
+LENOVO,Lenovo Ideapad 130 Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 130-15IKB Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,25490,221,4.8
+DELL,Dell Inspiron 7000 Core i5 6th Gen - (8 GB/1 TB HDD/8 GB SSD/Windows 10 Home/4 GB Graphics) 7559 Gamin...,15.6,8 GB DDR3,DDR,1 TB HDD|8 GB SSD,Intel Core i5  (6th Gen),64 bit Windows 10,88768,210,4.6
+ASUS,Asus ZenBook 13 Core i5 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) UX331UAL-EG011T Thin and Light Lap...,13.3,8 GB DDR3,DDR,512 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,69990,2,3
+HP,HP Pavilion 15 Core i7 8th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) 15-BC408TX G...,15.6,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,92600,45,4.5
+HP,HP Omen Core i5 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/6 GB Graphics) 15-ce073TX Gaming L...,15.6,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i5  (7th Gen),64 bit Windows 10,103990,108,4.5
+ASUS,Asus ROG Strix Edition Core i7 8th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics) GL5...,15.6,16 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,95990,1929,3.8
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,10,4
+APPLE,Apple Macbook Pro Core i7 8th Gen - (16 GB/512 GB SSD/Mac OS Mojave/4 GB Graphics) MR942HN/A,15.4,16 GB DDR4,DDR,512 GB SSD,Intel Core i7  (8th Gen),64 bit Mac OS,239990,3188,4.5
+ACER,Acer Predator Helios 300 Core i5 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) G3...,15.6,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i5  (7th Gen),64 bit Windows 10,129999,5,4
+ASUS,Asus ROG Strix Edition Core i7 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) GL50...,15.6,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,92990,681,4
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,107,4.7
+DELL,Dell Inspiron 15 5000 Core i5 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) 5577 ...,15.6,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i5  (7th Gen),64 bit Windows 10,66990,391,4
+HP,HP Pavilion x360 Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/2 GB Graphics) 14-dh1025...,14,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i5  (10th Gen),64 bit Windows 10,81290,98,4.4
+AGB,AGB Octev Core i7 7th Gen - (16 GB/1 TB HDD/1 TB SSD/Windows 10 Home/2 GB Graphics) G0812 Gaming Lapto...,15.6,16 GB DDR4,DDR,1 TB HDD|1 TB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,84000,1500,4.4
+ACER,Acer Aspire 3 Ryzen 5 Quad Core - (4 GB/1 TB HDD/Windows 10 Home) A315-41 / A315-41G / A315-41-R45R La...,15.6,4 GB DDR4,DDR,1 TB HDD,AMD Ryzen 5 Quad Core,64 bit Windows 10,28990,112,4.2
+DELL,Dell Inspiron 15 7000 Core i7 8th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10/4 GB Graphics) Inspiron 7...,15.6,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,89000,1148,4
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,4,4.8
+HP,HP Spectre x360 Core i7 8th Gen - (16 GB/512 GB SSD/Windows 10 Home) 13-ap0101TU 2 in 1 Laptop,13.3,16 GB DDR4,DDR,512 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,172725,10,3.9
+APPLE,Apple Macbook Pro Core i5 - (4 GB/500 GB HDD/OS X Mavericks) A1278,13.3,4 GB DDR3,DDR,500 GB HDD,Intel Core i5,Mac OS,86999,210,4.6
+DELL,Dell Core i5 5th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 7548 Laptop,15.6,8 GB DDR3,DDR,1 TB HDD,Intel Core i5  (5th Gen),64 bit Windows 10,69500,23,1.6
+HP,HP Pavilion Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-cx0140TX Gaming Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,67990,4,4.8
+ASUS,Asus ROG Core i9 9th Gen - (32 GB/1 TB HDD/1 TB SSD/Windows 10 Home/8 GB Graphics) G703GXR-EV078R Gami...,17.3,32 GB DDR4,DDR,1 TB HDD|1 TB SSD,Intel Core i9  (9th Gen),64 bit Windows 10,399990,1929,3.8
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,20,3.8
+LENOVO,Lenovo Core i7 7th Gen - (8 GB/2 TB HDD/Windows 10 Home/4 GB Graphics) 510 Laptop,15.6,8 GB DDR4,DDR,2 TB HDD,Intel Core i7  (7th Gen),64 bit Windows 10,82490,221,4.8
+APPLE,Apple MacBook Air Core i5 8th Gen - (8 GB/128 GB SSD/Mac OS Mojave) MREE2HN/A,13.3,8 GB DDR3,DDR,128 GB SSD,Intel Core i5  (8th Gen),Mac OS,106990,33,4.8
+LENOVO,Lenovo Legion Core i7 7th Gen - (16 GB/2 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics) Y720 Gaming ...,15.6,16 GB DDR4,DDR,2 TB HDD|256 GB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,169990,681,4
+AGB,AGB Tiara 2403-R Core i7 7th Gen - (8 GB/1 TB HDD/512 GB SSD/Windows 10/2 GB Graphics) 2403-R Laptop,15.6,8 GB DDR4,DDR,1 TB HDD|512 GB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,71999,16,4.7
+AGB,AGB Orion Core i7 7th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10/2 GB Graphics) ZQ-0812 Gaming Laptop,14,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,64499,11,4.3
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,19,4.3
+LENOVO,Lenovo Ideapad 330 Core i5 8th Gen - (8 GB + 16 GB Optane/1 TB HDD/Windows 10 Home/4 GB Graphics) 330-...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,64999,98,4.4
+LENOVO,Lenovo Ideapad 520 Core i7 8th Gen - (8 GB/2 TB HDD/Windows 10 Home/4 GB Graphics) 520-15IKB Laptop,15.6,8 GB DDR4,DDR,2 TB HDD,Intel Core i7  (8th Gen),64 bit Windows 10,85990,7,4.1
+LENOVO,Lenovo Ideapad 520 Core i5 8th Gen - (8 GB/2 TB HDD/Windows 10 Home/2 GB Graphics) 520-15IKB Laptop,15.6,8 GB DDR4,DDR,2 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,57989,28,3.8
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,585,4.2
+LENOVO,Lenovo Ideapad 330 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 330-15IKB Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,57900,1148,4
+HP,HP Core i7 6th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-ab549TX Laptop,15.6,8 GB DDR3,DDR,1 TB HDD,Intel Core i7  (6th Gen),64 bit Windows 10,64990,63,4.2
+MSI,MSI Core i7 9th Gen - (16 GB/1 TB HDD/512 GB SSD/Windows 10 Home/6 GB Graphics) GP75 Leopard 9SE-485IN...,17.3,16 GB DDR4,DDR,1 TB HDD|512 GB SSD,Intel Core i7  (9th Gen),64 bit Windows 10,162990,435,4.5
+ACER,Acer Spin 3 Core i3 6th Gen - (4 GB/1 TB HDD/Windows 10 Home) SP315-51-3723 2 in 1 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (6th Gen),64 bit Windows 10,43999,24,4.3
+HP,HP 14 Core i3 6th Gen - (4 GB/1 TB HDD/DOS) 14q-BU012TU Laptop,14,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (6th Gen),DOS,30500,210,4.6
+LENOVO,Lenovo Core i5 6th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) IP 500 Laptop,15.6,8 GB DDR3,DDR,1 TB HDD,Intel Core i5  (6th Gen),64 bit Windows 10,52500,15,4.2
+LENOVO,Lenovo Ideapad 330S Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home/512 MB Graphics) 81F5002PIN Lapto...,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,35480,160,4.1
+HP,HP Spectre X360 Core i7 8th Gen - (16 GB/512 GB SSD/Windows 10 Home) 13-AP0033DX 2 in 1 Laptop,13.3,16 GB DDR4,DDR,512 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,149990,1929,3.8
+LENOVO,Lenovo 20LS0002US Core i5 7th Gen - (8 GB/256 GB HDD/8 GB SSD/Windows 10) Thinkpad L480 Laptop,14,8 GB DDR,DDR,256 GB HDD|8 GB SSD,AMD Core i5  (7th Gen),Windows 10,125000,46,3.4
+ASUS,Asus Vivobook Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) X507UA-EJ836T Thin and Light Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,26300,78,4
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,80,4.2
+ASUS,Asus E203NAH-FD049T Celeron Dual Core 7th Gen - (2 GB/500 GB HDD/Windows 10 Home) E203NAH-FD049T Lapto...,11.6,2 GB DDR3,DDR,500 GB HDD,Intel Celeron Dual Core  (7th Gen),64 bit Windows 10,18999,681,4
+ASUS,Asus Core i5 8th Gen - (4 GB/1 TB HDD/Windows 10 Home) X507UA-EJ500T Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,25999,1,5
+LENOVO,Lenovo Ideapad 330 APU Dual Core E2 - (4 GB/500 GB HDD/Windows 10 Home) 330-15AST Laptop,15.6,4 GB DDR4,DDR,500 GB HDD,AMD APU Dual Core E2,64 bit Windows 10,19990,1,5
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,85000,98,4.4
+DELL,Dell 5000 Core i7 6th Gen - (8 GB/1 TB HDD/Windows 10 Home) 5568 2 in 1 Laptop,15.6,8 GB,,1 TB HDD,Intel Core i7  (6th Gen),64 bit Windows 10,145990,144,3.9
+HP,HP Spectre x360 Core i7 7th Gen - (16 GB/512 GB SSD/Windows 10 Pro) 13–ac059TU 2 in 1 Laptop,13.3,16 GB DDR3,DDR,512 GB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,92200,19,4.1
+LENOVO,Lenovo Yoga Pentium Quad Core 8th Gen - (4 GB/500 GB HDD/8 GB SSD/Windows 10 Pro) Yoga 730 Notebook,15.6,4 GB DDR3L,DDR,500 GB HDD|8 GB SSD,Intel Pentium Quad Core  (8th Gen),64 bit Windows 10,79990,1148,4
+HP,HP 400 Core i5 8th Gen - (8 GB/512 GB SSD/Windows 10 Pro) ProBook x360 440 G1 2 in 1 Laptop,14,8 GB DDR4,DDR,512 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,68990,3,4
+LENOVO,Lenovo Ideapad 520 Core i5 8th Gen - (8 GB/2 TB HDD/Windows 10 Home/4 GB Graphics) 520-15IKB Laptop,15.6,8 GB DDR4,DDR,2 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,40,4.2
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,64990,6,4.2
+HP,HP Pavilion x360 Core i5 8th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) 14-dh0042TU 2 in 1 Lapto...,14,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,88500,8,4.4
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,1929,3.8
+LENOVO,Lenovo Ideapad 330 Pentium Quad Core - (4 GB/1 TB HDD/Windows 10 Home) 330-15IGM Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Pentium Quad Core,64 bit Windows 10,26660,4,3.5
+LENOVO,Lenovo Core i5 7th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) Ideapad 510 Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (7th Gen),64 bit Windows 10,57309,250,4.1
+HP,HP 400 Core i3 8th Gen - (4 GB/256 GB SSD/Windows 10 Pro) ProBook x360 440 G1 Business Laptop,14,4 GB DDR4,DDR,256 GB SSD,Intel Core i3  (8th Gen),64 bit Windows 10,55990,681,4
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,49,3.9
+LENOVO,Lenovo Core i5 7th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 510 Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (7th Gen),64 bit Windows 10,66990,104,3.8
+LENOVO,Lenovo i5-8250u Core i5 7th Gen - (8 GB/256 GB SSD/Windows 10) Yoga 730 2 in 1 Laptop,13.3,8 GB DDR4,DDR,256 GB SSD,Intel Core i5  (7th Gen),64 bit Windows 10,125000,43,3.7
+LENOVO,Lenovo Ideapad 330 Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) 330-15IKB Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,33500,26,4.8
+DELL,Dell Inspiron 5000 Core i5 6th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) 5559 Laptop,15.6,8 GB DDR3,DDR,1 TB HDD,Intel Core i5  (6th Gen),64 bit Windows 10,62990,98,4.4
+MSI,MSI GL Series Core i7 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) GV72 7RE-1464...,17.3,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,95990,57,4.2
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,1148,4
+ASUS,Asus VivoBook S15 Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) X510UA-EJ770T Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,33974,88,3.9
+AGB,AGB Tiara Core i7 7th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10/2 GB Graphics) 1210-V Laptop,15.6,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,69999,3,2.3
+MSI,MSI GL Core i7 8th Gen - (16 GB/1 TB HDD/128 GB SSD/Windows 10 Home/6 GB Graphics) GL63 8SD-632IN Gami...,15.6,16 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,117990,85,4.3
+LENOVO,Lenovo Ideapad 130 Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 130-15IKB Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,25490,694,3.9
+DELL,Dell 5000 Core i3 6th Gen - (4 GB/1 TB HDD/Windows 10 Home) 5368 2 in 1 Laptop,13.3,4 GB,,1 TB HDD,Intel Core i3  (6th Gen),64 bit Windows 10,56990,210,4.6
+MSI,MSI GL Core i7 7th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) GL62 7RDX Gaming Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i7  (7th Gen),64 bit Windows 10,95990,681,4
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,701,4.5
+MSI,MSI GL Core i7 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) GL62M 7REX Gaming La...,15.6,8 GB DDR4,DDR,1 TB HDD|128 GB SSD,Intel Core i7  (7th Gen),64 bit Windows 10,99990,190,4.2
+MSI,MSI Core i9 9th Gen - (32 GB/1 TB HDD/1 TB SSD/Windows 10 Home/8 GB Graphics) GT75 Titan 9SG-409IN Gam...,17.3,32 GB DDR4,DDR,1 TB HDD|1 TB SSD,Intel Core i9  (9th Gen),64 bit Windows 10,399990,2,3.5
+ASUS,Asus VivoBook S Series Core i5 8th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) S430FA-EB031T Lapt...,14,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,64990,98,4.4
+LENOVO,Lenovo Ideapad 330s Core i3 8th Gen - (4 GB/256 GB SSD/Windows 10 Home) 330S-14IKB Thin and Light Lapt...,14,4 GB DDR4,DDR,256 GB SSD,Intel Core i3  (8th Gen),64 bit Windows 10,43942,19,4.6
+ASUS,Asus VivoBook S15 Core i7 8th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/2 GB Graphics) S530UN-BQ...,15.6,8 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i7  (8th Gen),64 bit Windows 10,87990,396,4
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,48,3.9
+DELL,Dell XPS 13 Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Home) 9370 Thin and Light Laptop,13,8 GB DDR3,DDR,256 GB SSD,Intel Core i5  (8th Gen),64 bit Windows 10,108850,1148,4
+LENOVO,Lenovo G50-30 Pentium Quad Core 4th Gen - (4 GB/500 GB HDD/DOS) G50-30 Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,Intel Pentium Quad Core  (4th Gen),DOS,25290,94,4.1
+LENOVO,Lenovo Ideapad 330 Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) 330-15IKB Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,45000,684,4.2
+LENOVO,Lenovo Ideapad 130 Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 130-15IKB Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,25490,330,4.1
+DELL,Dell Inspiron Core i5 7th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) 5567 Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (7th Gen),64 bit Windows 10,66990,301,3.8
+DELL,Dell Inspiron 15 5000 Core i5 8th Gen - (8 GB/2 TB HDD/Windows 10 Home/2 GB Graphics) 5570 Laptop,15.6,8 GB DDR4,DDR,2 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,58900,346,3.8
+DELL,Dell 15 5000 Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) 5578 2 in 1 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),Windows 10,51000,210,4.6
+IBALL,iBall CompBook Celeron Dual Core - (4 GB/64 GB EMMC Storage/Windows 10 Home) Netizen 14 Thin and Light...,14,4 GB DDR3,DDR,,Intel Celeron Dual Core,64 bit Windows 10,13990,1929,3.8
+IBALL,iBall CompBook Pentium Quad Core - (4 GB/32 GB EMMC Storage/Windows 10 Home) Premio v3.0 Laptop,14,4 GB DDR3,DDR,,Intel Pentium Quad Core,64 bit Windows 10,13990,364,3.7
+ACER,Acer Predator Helios 300 Core i7 9th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics) P...,15.6,16 GB DDR4,DDR,1 TB HDD|256 GB SSD,Intel Core i7  (9th Gen),64 bit Windows 10,114990,4265,4
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,2377,4.1
+LIFEDIGITAL,LifeDigital ZED Series Atom Quad Core - (2 GB/32 GB EMMC Storage/Windows 10 Home) ZED Air Pro Silin / ...,12.5 Inch),2 GB DDR3,DDR,,Intel Atom Quad Core,64 bit Windows 10,9977,688,3.8
+DELL,Dell Inspiron 15 3000 Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10) 3567 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,28990,218,3.8
+LIFEDIGITAL,LifeDigital Zed Series Celeron Dual Core - (3 GB/500 GB HDD/Windows 10 Home) Zed Air Plus Laptop,15.6,3 GB DDR3,DDR,500 GB HDD,Intel Celeron Dual Core,64 bit Windows 10,16291,3082,4.1
+LENOVO,Lenovo Ideapad 330 Ryzen 5 Quad Core - (4 GB/1 TB HDD/Windows 10 Home) 330-15ARR U Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,AMD Ryzen 5 Quad Core,64 bit Windows 10,32990,132,3.6
+ACER,Acer Aspire 5 Core i5 8th Gen - (4 GB/1 TB HDD/Linux) A515-51 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),Linux/Ubuntu,34990,1929,3.8
+ASUS,Asus APU Dual Core E1 - (4 GB/500 GB HDD/Windows 10 Home) X540YA-XO547T Laptop,15.6,4 GB DDR3,DDR,500 GB HDD,AMD APU Dual Core E1,64 bit Windows 10,17990,55,4.4
+ACER,Acer Nitro 5 Core i7 8th Gen - (8 GB + 16 GB Optane/1 TB HDD/Windows 10 Home/4 GB Graphics) AN515 52 7...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i7  (8th Gen),64 bit Windows 10,65990,989,4
+ASUS,Asus Vivobook Core i7 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) X510UN-EJ329T Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i7  (8th Gen),64 bit Windows 10,57490,681,4
+ASUS,Asus APU Dual Core A6 - (4 GB/1 TB HDD/Windows 10 Home) X540BA-GQ119T Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,AMD APU Dual Core A6,64 bit Windows 10,18990,338,3.9
+HP,HP 14q APU Dual Core A6 - (4 GB/256 GB SSD/Windows 10 Home) 14q-cy0004AU Thin and Light Laptop,14,4 GB DDR4,DDR,256 GB SSD,AMD APU Dual Core A6,64 bit Windows 10,19990,34,3.9
+IBALL,Iball C Series Atom - (2 GB/32 GB EMMC Storage/Windows 10) Compbook Laptop,11.6,2 GB DDR3,DDR,,Intel Atom,32 bit Windows 10,11999,389,3.9
+RDP,RDP ThinBook Atom Quad Core - (4 GB/32 GB EMMC Storage/Windows 10 Pro) 1310-ECP Laptop,11.6,4 GB DDR3,DDR,,Intel Atom Quad Core,32 bit Windows 10,14490,98,4.4
+LENOVO,Lenovo Ideapad 330s Core i3 8th Gen - (4 GB/1 TB HDD/Windows 10 Home) 330S-14IKB Laptop,14,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (8th Gen),64 bit Windows 10,35990,7,4.1
+LENOVO,Lenovo Ideapad 130 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) 130-15IKB Laptop,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,45990,4267,3.9
+HP,HP G7 APU Dual Core A6 - (4 GB/1 TB HDD/DOS) 245 G7 Laptop,14,4 GB DDR4,DDR,1 TB HDD,AMD APU Dual Core A6,DOS,19280,1148,4
+HP,HP Pavilion 15 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-BC406TX Gaming Lapto...,15.6,8 GB DDR4,DDR,1 TB HDD,Intel Core i5  (8th Gen),64 bit Windows 10,53990,229,4.3
+LENOVO,Lenovo IP330 Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10) Ideapad 330 Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),64 bit Windows 10,30450,551,3.7
+LIFEDIGITAL,LifeDigital Zed Series Celeron Dual Core - (2 GB/32 GB EMMC Storage/Windows 10 Home) Zed Note Prime 2 ...,11.6,2 GB DDR3,DDR,,Intel Celeron Dual Core,64 bit Windows 10,16291,24,3.9
+HP,HP 15q APU Dual Core A9 - (4 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) 15q-by002AX Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,AMD APU Dual Core A9,64 bit Windows 10,25490,24,3.6
+LENOVO,Lenovo Ideapad 130 Core i3 7th Gen - (4 GB/1 TB HDD/DOS) 130-15IKB Laptop,15.6,4 GB DDR4,DDR,1 TB HDD,Intel Core i3  (7th Gen),DOS,25490,210,4.6
