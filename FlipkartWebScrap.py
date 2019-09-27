@@ -6,7 +6,7 @@ f= open(filename,"w")
 headers="Brand,Product,Display,RAM,DDR/SDR,HardDisk,Processor,OS,Pricing,Customer,Rating\n"
 f.write(headers)
 
-for i in range(20):
+for i in range(50):
     j=i+1
     uClient =uReq('https://www.flipkart.com/search?q=laptop&sid=6bo%2Cb5g&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_0_3_na_na_pr&otracker1=AS_QueryStore_OrganicAutoSuggest_0_3_na_na_pr&as-pos=0&as-type=RECENT&suggestionId=laptop&requestId=3af7f76b-cfdc-490d-a3cb-3dec368ee49d&as-backfill=on'+'&page='+str(i+1))
     try:
